@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-// This is the main activity
+// This is the main activity that has been changed
 
 
 // Several lines
